@@ -5,3 +5,4 @@ cython==3.0.6
 pandas==2.1.4
 streamlit==1.31.0
 matplotlib==3.8.2
+plotly==5.20.0
